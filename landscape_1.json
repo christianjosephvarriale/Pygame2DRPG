@@ -1,0 +1,12 @@
+{ "columns":30,
+ "image":"landscape_1.png",
+ "imageheight":960,
+ "imagewidth":960,
+ "margin":0,
+ "name":"landscape_1",
+ "spacing":0,
+ "tilecount":900,
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset"
+}
